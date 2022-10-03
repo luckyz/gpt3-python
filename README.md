@@ -10,7 +10,7 @@ pip install -r requirements.txt
 
 You must create an account in [OpenAI website](https://openai.com/api/)
 
-Following, open a terminal inside this project folder and type following command to crate a ```.env``` file:
+Following, open a terminal inside this project folder and type following command to create a ```.env``` file:
 
 ```bash
 echo <YOUR_OPENAI_SECRET_KEY> > .env
