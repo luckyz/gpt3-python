@@ -2,11 +2,11 @@
 
 This project uses Artificial Intelligence of GPT-3 to generate texts using questions or descriptions as inputs.
 
-# Quickstart
+## Quickstart
 
 Install dependencies:
 
-```bash
+```
 pip install -r requirements.txt
 ```
 
@@ -19,8 +19,6 @@ echo <YOUR_OPENAI_SECRET_KEY> > .env
 ```
 
 > Note: replace ```<YOUR_OPENAI_SECRET_KEY>``` with given in your own [OpenAI profile webpage](https://beta.openai.com/account/api-keys)
-
-## Usage
 
 ```python
 python main.py
