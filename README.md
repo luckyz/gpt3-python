@@ -20,7 +20,7 @@ echo <YOUR_OPENAI_SECRET_KEY> > .env
 
 > Note: replace ```<YOUR_OPENAI_SECRET_KEY>``` with given in your own [OpenAI profile webpage](https://beta.openai.com/account/api-keys)
 
-```python
+```
 python main.py
 ```
 
