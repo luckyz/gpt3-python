@@ -4,6 +4,8 @@ This project uses Artificial Intelligence of GPT-3 to generate texts using quest
 
 # Quickstart
 
+Install dependencies:
+
 ```bash
 pip install -r requirements.txt
 ```
